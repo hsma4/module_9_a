@@ -46,20 +46,20 @@ If you are experiencing issues with Jupyter-Lab on your personal computer then y
 > Note you require a Google account to use Colab.
 
 ## Code along lectures
-* Code along 1: Loading time series using pandas [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/code_along_lectures/01_pandas_time_series.ipynb)
-* Code along 2: Exploring time series [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/code_along_lectures/02_exploring_ts.ipynb)
-* Code along 3: Simple forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/code_along_lectures/03_benchmark_forecasts.ipynb)
+* Code along 1: Loading time series using pandas [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma4/module_9_a/blob/main/code_along_lectures/01_pandas_time_series.ipynb)
+* Code along 2: Exploring time series [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma4/module_9_a/blob/main/code_along_lectures/02_exploring_ts.ipynb)
+* Code along 3: Simple forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma4/module_9_a/blob/main/code_along_lectures/03_benchmark_forecasts.ipynb)
 
 
 ## Practical Exercises
-* Exercise 1: Exploring time series [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/exercises/Practical_1.ipynb)
-* Exercise 2: Simple forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/exercises/Practical_2.ipynb)
+* Exercise 1: Exploring time series [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma4/module_9_a/blob/main/exercises/Practical_1.ipynb)
+* Exercise 2: Simple forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma4/module_9_a/blob/main/exercises/Practical_2.ipynb)
 
 ## Solutions to Exercises
 
 > These notebooks provide example solutions to the problems set.  Feel free to work through them.  We all learn in different ways. It is up to you how you choose to learn either by having a go at the exercises or by working through the code provided.  Remember you can always try the code with your own data!  Good luck.
 
-* Exercise 1: Exploring time series [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/exercises/Practical_1_SOLUTIONS.ipynb)
-* Exercise 2: Simple forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/exercises/Practical_2_SOLUTIONS.ipynb)
+* Exercise 1: Exploring time series [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma4/module_9_a/blob/main/exercises/Practical_1_SOLUTIONS.ipynb)
+* Exercise 2: Simple forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma4/module_9_a/blob/main/exercises/Practical_2_SOLUTIONS.ipynb)
 
 
