@@ -23,13 +23,14 @@
 
 You are provided with a conda environment (see binder/environment.yml) that you can use to install the dependencies.  To install follow these instructions.
 
-1. Open an anaconda prompt (or terminal on Mac and Linux) in the same directory as the course files.  Run the following command
+1. Open an anaconda prompt (or terminal on Mac and Linux) in the same directory as the course files.  Run the following commands
 
-   * `conda env create -f environment.yml`
+   * `conda update conda`
+   * `conda env create -f binder/environment.yml`
 
-2. Conda will resolve the enviornment and ask if you wish to install it.  Answer 'y'. Installation will take several minutes.  It installs an environment called `hsma_forecast`.  You need to activate it.
+2. Conda will resolve the enviornment and ask if you wish to install it.  Answer 'y'. Installation will take several minutes.  It installs an environment called `hsma4_forecast`.  You need to activate it.
 
-   * `conda activate hsma_forecast`
+   * `conda activate hsma4_forecast`
 
 3. To follow the code along lectures and complete the exercises please use Jupyter-Lab.  To run it enter the following command into your anaconda prompt or terminal (making sure you are in the same directory as the files)
 
